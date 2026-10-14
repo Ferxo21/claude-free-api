@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+# Opcional: llama-cpp-python si quieres ejecución local con GGUF/GGML
+llama-cpp-python
